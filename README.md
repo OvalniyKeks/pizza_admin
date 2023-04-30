@@ -4,7 +4,7 @@ Pizza Admin
 
 ## Install the dependencies
 ```bash
-yarn
+yarn install
 # or
 npm install
 ```
