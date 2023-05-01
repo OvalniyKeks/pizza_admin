@@ -1,6 +1,6 @@
 # PizzaAdmin (pizzaadmin)
 
-Pizza Admin
+Pizza Admin 1
 
 ## Install the dependencies
 ```bash
